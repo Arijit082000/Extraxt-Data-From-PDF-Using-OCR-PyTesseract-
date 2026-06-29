@@ -1,1 +1,0 @@
-# Extraxt-Data-From-PDF-Using-OCR-PyTesseract-
